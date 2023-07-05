@@ -6,6 +6,7 @@
 }
 
 .nav_bar {
+  position: absolute;
   width: 100%;
   height: 100px;
   background-color: rgb(61, 144, 116);
@@ -47,3 +48,5 @@ li {
   text-align: center;
   margin-top: 20px;
 }
+
+
