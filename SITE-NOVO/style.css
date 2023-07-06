@@ -6,8 +6,11 @@
   list-style: none;
   color: rgb(91, 89, 89);
   font-family: monospace, sans-serif;
+  
 }
-
+body{
+  background-color: rgb(240, 229, 206);
+}
 .nav_bar {
   position: absolute;
   width: 100%;
