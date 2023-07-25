@@ -12,6 +12,7 @@
   position: fixed;
 }
 li {
+  text-decoration: none;
   position: relative;
   text-align: right;
   right: 300px;
